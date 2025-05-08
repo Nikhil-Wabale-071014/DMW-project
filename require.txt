@@ -2,3 +2,4 @@ pandas
 scikit-learn
 matplotlib
 streamlit
+command - python -m streamlit run .\streamapp.py
